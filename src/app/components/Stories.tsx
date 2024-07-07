@@ -5,43 +5,43 @@ const Stories = () => {
       <div className="flex gap-8 w-max">
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
         <div className="flex flex-col items-center gap-2 cursor-pointer">
             <Image src="https://images.pexels.com/photos/26705335/pexels-photo-26705335/free-photo-of-kota-orang-orang-masyarakat-rakyat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-            <span className="font-meidum">Ricky</span>
+            <span className="font-meidum">OPIK</span>
         </div>
       </div>
     </div>
